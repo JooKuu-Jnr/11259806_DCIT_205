@@ -187,7 +187,7 @@ since the 'for' attribute in the html is equal to 'id' */
     margin: 0 100px;
 }
 h1 {
-    font-size: 45px;
+    font-size: 62px;
     font-weight: 600;
 }
 
@@ -262,6 +262,7 @@ h2{
 .title {
     margin: 0 180px;
     font-size: 35px;
+    text-align: center;
 }
 
 .Alumni{

@@ -52,11 +52,14 @@ nav{
 .nav-links ul li::after{
     content:'';
     width: 0%;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background-color: #29ABFF;
+    width: 0%;
     height: 2px;
-    background: #f44336;
-    display: block;
-    margin: auto;
-    transition: 0.5s;
+    border-radius: 9999px;
+    transition: width 0.3s ease;
 
 }
 .nav-links ul li:hover::after{
