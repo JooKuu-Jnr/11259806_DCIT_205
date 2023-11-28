@@ -35,16 +35,26 @@ The purpose of this project was to create a website that showcases relevant info
 
 ### Screenshots
 Here are the screenshots of all 10 pages of my website.
-- ![Homepage](screenshots/Homepage.png)
-- ![CoursesPage](<screenshots/Courses Page.png>)
-- ![Contact-Us](<screenshots/Contact Us Page.png>)
-- ![FAQ](<screenshots/FAQ page.png>)
-- ![Faculty](<screenshots/Faculty Page.png>)
-- ![Events](<screenshots/Events Page.png>)
-- ![About-Us](<screenshots/About Us Page.png>)
-- ![Undergraduate-Page](<screenshots/Undergraduate Page.png>)
-- ![PHD-Page](<screenshots/PHD course page.png>)
-- ![Mphil&Msc](<screenshots/Mphil & Msc Page.png>)
+- HOMEPAGE
+![Homepage](screenshots/Homepage.png)
+- Courses Page
+![CoursesPage](<screenshots/Courses Page.png>)
+- Contact-Us
+![Contact-Us](<screenshots/Contact Us Page.png>)
+- FAQ
+![FAQ](<screenshots/FAQ page.png>)
+- Faculty
+![Faculty](<screenshots/Faculty Page.png>)
+-Events
+ ![Events](<screenshots/Events Page.png>)
+- About-Us
+![About-Us](<screenshots/About Us Page.png>)
+- Undergraduate-Page
+![Undergraduate-Page](<screenshots/Undergraduate Page.png>)
+- PHD-Page
+![PHD-Page](<screenshots/PHD course page.png>)
+- Mphil&Msc
+![Mphil&Msc](<screenshots/Mphil & Msc Page.png>)
 
 
 
